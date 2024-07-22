@@ -14,6 +14,7 @@ npm install
 npm run dev
 ```
 
+install和run失败，可以[参考](./doc/项目运行常见错误.md)
 
 ### 数据展示
 
